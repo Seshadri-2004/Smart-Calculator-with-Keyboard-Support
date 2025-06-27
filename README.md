@@ -69,7 +69,7 @@ You can use your keyboard to interact with the calculator:
 
 ## 👨‍💻 Author
 
-**Your Name**  
+Seshadri  
 Passionate about creating interactive web applications and learning new technologies.
 
 ---
