@@ -61,9 +61,9 @@ You can use your keyboard to interact with the calculator:
 
 ## 📸 Screenshot
 
-![Smart Calculator](screenshot.png)
+![Smart Calculator](Screenshot.png)
 
-> *(Add your screenshot image in the project folder with the name `screenshot.png` or update the path)*
+> *(Add your screenshot image in the project folder with the name `Screenshot.png` or update the path)*
 
 ---
 
